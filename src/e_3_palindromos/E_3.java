@@ -77,7 +77,7 @@ public class E_3 {
 		int f;
 		System.out.print("[");
 		for (f = 0; f < array.length - 1; f++) {
-			System.out.print(array[f] + ",");
+			System.out.print(array[f] + " ");
 		}
 		System.out.println(array[f] + "]");
 	}
